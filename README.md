@@ -11,6 +11,7 @@ Here is a quick test of the program:
 Use Cases:
 
  - Aesthetics!
+ - Graphic design for a website
 
 Problems:
 
